@@ -19,3 +19,4 @@ Create a .env file to prevent warning
 Open your browser and navigate to:
 
    http://localhost:3000/
+# react-webpack-template

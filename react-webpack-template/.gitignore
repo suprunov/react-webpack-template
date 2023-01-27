@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# production
+dist
+build
+
+# mac system files
+.DS_Store
+
+# enviroment files
+.env
+
+# log files
+yarn-error.log
+
+# linting
+.eslintcache
